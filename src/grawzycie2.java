@@ -87,6 +87,7 @@ public class grawzycie2 {
 				}
 				System.out.println();
 			}
+			
 			System.out.println();
 		}
 	}	
